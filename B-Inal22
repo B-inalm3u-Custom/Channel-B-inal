@@ -126,20 +126,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
 #EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", SELAMAT DATANG DI CHANNEL INALDIE
 https://github.com/B-inalm3u-Custom/Channel-B-inal/raw/B-inal22/welcome-to-b-inal.ts
 #EXTINF:-1 
 #EXTM3U billed-msg="❤DILARANG COPY&JUAL&SEBARLUASKAN BY INAL❤️"
-
-
-
-
-
-
-
-
-
 
 
 
@@ -297,6 +306,52 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Event/B-inal22/Vln7.m3u
 https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Event/B-inal22/Vln8.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/5b/7a/545b7ad0-304c-27c6-93ed-a8daa0edb0d2/source/512x512bb.jpg" group-title="##VOLLY VNL##", LIVE 9
 https://raw.githubusercontent.com/B-inalm3u-Custom/Eropa-Event/B-inal22/Vln9.m3u8
+
+#EXTINF:-1 group-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" 
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", BULUTANGKIS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Bulutangkis1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", BULUTANGKIS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Bulutangkis2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", FORMULA 1 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Formula1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", FORMULA 1 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Formula2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", GOLF 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Golf1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", GOLF 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/MotoGP1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", MOTOGP 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/MotoGP1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", MOTOGP 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/MotoGP2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", NBA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Nba1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", NBA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Nba2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", TENNIS 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Tennis1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", TENNIS 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Tennis2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", UFC 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Ufc1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", UFC 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Ufc2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", WWE 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Wwe1.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", WWE 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Wwe2.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Liga%20Inggris%201.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Liga%20Inggris%202.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Liga%20Italia%201.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/Liga%20Italia%202.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 5
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/La%20Liga%201.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e8/54/33/e8543389-b44d-9502-9da0-18ad91c38d6a/source/512x512bb.jpg" group-title="##EVENT OLAHRAGA##", SEPAKBOLA 6
+https://raw.githubusercontent.com/B-inalm3u-Custom/Olahraga/B-inal22/La%20Liga%202.m3u8
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz2ZvvXL7d3f6MOVcz_fuB_vDJFztxXw1ag&usqp=CAU" group-title="##🏁🏎️FORMULA 1🏎️🏁##", LIVE 1 
