@@ -2380,13 +2380,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg",
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="@KIDS CARTOON", Astro Ceria
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ws1LHJtMoU-Ph7UhrVEOdX0Z5H3LHfv7Sg&s" group-title="@KIDS CARTOON", Astro Ceria
 https://raw.githubusercontent.com/B-inalm3u-Custom/Kartun/B-inal22/astroceria.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7EJQb_wLO5tlRyNUu_0t446hJ3k-k97v-Q&s" group-title="@KIDS CARTOON", Disney Junior
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="@KIDS CARTOON", Disney Junior
 https://raw.githubusercontent.com/B-inalm3u-Custom/Kartun/B-inal22/disneyJR00.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="@KIDS CARTOON", Disney XD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="@KIDS CARTOON", Disney XD
 https://raw.githubusercontent.com/B-inalm3u-Custom/Kartun/B-inal22/disneyXD00.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="@KIDS CARTOON", Disney Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTViljMaWaRzfm9wT7fjVI5BVluaVPttR6g-g&s" group-title="@KIDS CARTOON", Disney Channel
 https://raw.githubusercontent.com/B-inalm3u-Custom/Kartun/B-inal22/disneychannel00.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -8884,112 +8884,111 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
 
-
 #EXTINF:-1 group-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="@EUROSPORT",
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 1 UK
-http://152.89.62.76:8880/live/D12m1495/23236986/2917.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2917.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EuroSport 2 UK
-http://152.89.62.76:8880/live/D12m1495/23236986/2916.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2916.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 FR
-http://152.89.62.76:8880/live/D12m1495/23236986/28192.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/28192.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 FR
-http://152.89.62.76:8880/live/D12m1495/23236986/28191.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/28191.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 360 FR
-http://152.89.62.76:8880/live/D12m1495/23236986/28190.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/28190.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 1 NL
-http://152.89.62.76:8880/live/D12m1495/23236986/31517.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31517.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 2 NL
-http://152.89.62.76:8880/live/D12m1495/23236986/31516.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31516.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 ES
-http://152.89.62.76:8880/live/D12m1495/23236986/29319.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/29319.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 DE
-http://152.89.62.76:8880/live/D12m1495/23236986/29318.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/29318.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 DE
-http://152.89.62.76:8880/live/D12m1495/23236986/2640.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2640.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 DE
-http://152.89.62.76:8880/live/D12m1495/23236986/2639.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2639.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 XTRA DE
-http://152.89.62.76:8880/live/D12m1495/23236986/2638.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/2638.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 1 PT
-http://152.89.62.76:8880/live/D12m1495/23236986/3225.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/3225.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Europort 2 PT
-http://152.89.62.76:8880/live/D12m1495/23236986/3224.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/3224.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 TR
-http://152.89.62.76:8880/live/D12m1495/23236986/32973.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/32973.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 TR
-http://152.89.62.76:8880/live/D12m1495/23236986/32972.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/32972.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 PL
-http://152.89.62.76:8880/live/D12m1495/23236986/33457.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/33457.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 PL
-http://152.89.62.76:8880/live/D12m1495/23236986/33456.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/33456.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 ALB
-http://152.89.62.76:8880/live/D12m1495/23236986/30598.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/30598.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 ALB
-http://152.89.62.76:8880/live/D12m1495/23236986/30597.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/30597.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 YU
-http://152.89.62.76:8880/live/D12m1495/23236986/49285.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/49285.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 YU
-http://152.89.62.76:8880/live/D12m1495/23236986/49284.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/49284.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 GR
-http://152.89.62.76:8880/live/D12m1495/23236986/31204.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31204.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 HU
-http://152.89.62.76:8880/live/D12m1495/23236986/31321.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31321.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 HU
-http://152.89.62.76:8880/live/D12m1495/23236986/31320.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31320.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 RO
-http://152.89.62.76:8880/live/D12m1495/23236986/31831.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31831.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 RO
-http://152.89.62.76:8880/live/D12m1495/23236986/31830.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/31830.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 SE
-http://152.89.62.76:8880/live/D12m1495/23236986/51533.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/51533.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 SE
-http://152.89.62.76:8880/live/D12m1495/23236986/51532.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/51532.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 RU
-http://152.89.62.76:8880/live/D12m1495/23236986/52250.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/52250.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 RU
-http://152.89.62.76:8880/live/D12m1495/23236986/52249.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/52249.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 2 CZ
-http://152.89.62.76:8880/live/D12m1495/23236986/30976.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/30976.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", Eurosport 1 CZ
-http://152.89.62.76:8880/live/D12m1495/23236986/30975.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/30975.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 1 AF
-http://152.89.62.76:8880/live/D12m1495/23236986/65979.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/65979.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDxbQKYp2Gl61NdjLD_y7H_YB5RU3b9_y9RvazkeqDsI6_VFk976ztlK5FzU-j8i_QP4&usqp=CAU" group-title="@EUROSPORT", EUROSPORT 2 AF
-http://152.89.62.76:8880/live/D12m1495/23236986/49654.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels00039220/06924580/49654.m3u8
 
 
 #EXTINF:-1 group-logo="https://mir-s3-cdn-cf.behance.net/projects/404/233c09196302867.Y3JvcCwzMzY2LDI2MzMsMCww.jpg" group-title="ASTROBOY"
