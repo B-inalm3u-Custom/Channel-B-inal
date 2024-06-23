@@ -22584,11 +22584,7 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 group-title="SINGAPORE TV" group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMxB86.png",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-
-#################################################################################################################
-#################################################################################################################
 #EXTINF:-1 group-logo="https://images.sftcdn.net/images/t_app-icon-s/p/42a1fac2-dfe1-4af4-9f99-5426792c07da/1984606113/espana-tv-plus-gratis-2019-icon.png",
-#################################################################################################################
 #################################################################################################################
 #EXTINF:-1 group-title="SPAIN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png", La 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22602,23 +22598,6 @@ https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
-
-#EXTINF:-1 group-title="SPAIN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png",ESPN Deportes
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
-https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
-
-#EXTINF:-1 group-title="SPAIN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png",ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LEO70iL6S1ix-XTvyncu1A","k":"V3XN0YH9Xg6R88rLsMqO1A"},{"kty":"oct","kid":"nUDOLGNFTvyCbyblE38Txg","k":"iusccUFqdmhADlyZAFqLPg"}]}
-https://1279247418.rsc.cdn77.org/bpk-tv/QFENP2/dash/manifest.mpd
-
-#EXTINF:-1 group-title="SPAIN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp",ESPN 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af076d62dfe64a82a1f205b16c2f5ff7:8d71de48cafde022465af47f7639b241
-https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SPAIN TV",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
