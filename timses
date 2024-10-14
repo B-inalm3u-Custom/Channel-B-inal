@@ -1,20 +1,20 @@
-#EXTINF:-1 group-logo="https://s.id/timses3" group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##"
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS 1
+#EXTINF:-1 group-logo="https://s.id/timses3" group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##"
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas1.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS 2
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS 3
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas3.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS 4
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 4
 https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas4.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS  LOKAL 1
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS  LOKAL 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##ðŸ‡®ðŸ‡©NOBAR TIMNASDAYðŸ‡®ðŸ‡©##", TIMNAS  LOKAL 2
+#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS  LOKAL 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
