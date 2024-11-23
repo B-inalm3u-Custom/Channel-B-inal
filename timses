@@ -1,12 +1,4 @@
 #EXTINF:-1 group-logo="https://s.id/timses3" group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##"
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas1.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas3.m3u8
-#EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/KonohaTV/B-inal22/timnas4.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/timses3"  group-title="##🇮🇩NOBAR TIMNASDAY🇮🇩##", TIMNAS  LOKAL 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
